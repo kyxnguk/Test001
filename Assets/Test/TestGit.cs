@@ -12,5 +12,12 @@ public class TestGit : MonoBehaviour
         
     }
 
+    void TestSum()
+    {
+        int a = 0;
+        int b = 2;
+        int c = 3;
+    }
+
 
 }
